@@ -1,0 +1,21 @@
+
+<p align=
+center> <img src=https://img.shields.io/badge/Graduação-Sistemas%20para%20Internet-blue?style=for-the-badge alt=Sistemas
+para
+Internet> <img src=https://img.shields.io/badge/Estudos-Programação-orange?style=for-the-badge alt=Estudos> </p> <p align=center> 💻 <strong>Códigos • Exercícios • Projetos • Atividades Acadêmicas</strong> </p>
+👨‍💻 Sobre o Repositório
+
+Este repositório foi criado com o objetivo de reunir e organizar os códigos, exercícios, projetos e atividades desenvolvidos durante minha graduação em Sistemas para Internet.
+
+Aqui serão armazenados os conteúdos desenvolvidos ao longo da graduação, servindo também como registro da minha evolução e aprendizado.
+
+🎓 Formação
+
+Matheus Augusto Cavalcante Maia
+
+🎓 Graduado em Redes de Computadores
+🏫 Instituto Federal da Paraíba — IFPB
+
+
+🎓 Estudante de Sistemas para Internet
+🏫 Centro Universitário — UNIESP
