@@ -12,6 +12,9 @@ if media < 7 and frequencia < 75:
 elif media >= 7 and frequencia < 75:
     print("Situação: Reprovado por falta de frequência")
 elif media < 7 and frequencia >= 75:
-    print("Situação: Reprovado por nota")
+    if media >= 4:
+        print("Situação: Prova Final")
+    else:
+        print("Situação reprovado por nota")
 else: 
     print("Situação: Aprovado por média e nota")
