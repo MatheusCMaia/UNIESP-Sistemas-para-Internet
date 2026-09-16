@@ -6,5 +6,5 @@ if delta < 0:
 else:
     x1 = ((int(b) * -1) + (delta ** (1/2))) / (2 * int(a))
     x2 = (-int(b) - (delta ** (1/2))) / (2 * int(a))
-    print(f"x1 é igual: {x1}")
-    print(f"x2 é igual: {x2}")
+    print(f"x1 é igual: {x1:.2f}")
+    print(f"x2 é igual: {x2:.2f}")
