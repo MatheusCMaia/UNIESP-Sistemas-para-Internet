@@ -1,13 +1,8 @@
 numero1 , numero2, numero3 = input("Digite os números com espaço (Ex: 1 2 3): ").split()
 numero1, numero2, numero3 = int(numero1), int(numero2), int(numero3)
-numeros = []
-numeros.append(numero1)
-numeros.append(numero2)
-numeros.append(numero3)
+numeros = [numero1, numero2, numero3]
 numeros.sort()
-print("A ordem crescente é: ")
-for i in numeros:
-    print(i)
+print(numeros)
 
 
 #Sem usar lista nem sort
