@@ -1,0 +1,1 @@
+lista = [1,2,3,9.0,True,[1,2,3],"Teste",3.9,False,"Matheus"]

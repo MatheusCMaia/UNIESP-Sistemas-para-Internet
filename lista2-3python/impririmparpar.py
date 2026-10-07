@@ -1,4 +1,4 @@
-numer1 = int(input("Digite o número 1: "))
+numer1 = int(input("Digite o número: "))
 
 
 if numer1%2 == 0:
